@@ -8,7 +8,7 @@ Install virtualenv `pip install virtualenv env`
 
 Create a virtual environment `python3 virtualenv env`
 
-Clone repository `git clone https://github.com/leonardokhorliey/django-blog`
+Clone repository `git clone https://github.com/leonardokhorliey/django-zuri`
 
 Enter virtual environment `source env/bin/activate `. This might be different on Windows OS.
 
